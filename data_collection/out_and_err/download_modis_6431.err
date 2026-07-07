@@ -1,0 +1,3 @@
+QUEUEING TASKS | :   0%|          | 0/72 [00:00<?, ?it/s]QUEUEING TASKS | : 100%|██████████| 72/72 [00:00<00:00, 37986.15it/s]
+PROCESSING TASKS | :   0%|          | 0/72 [00:00<?, ?it/s]PROCESSING TASKS | : 100%|██████████| 72/72 [00:02<00:00, 35.40it/s]PROCESSING TASKS | : 100%|██████████| 72/72 [00:02<00:00, 35.40it/s]
+COLLECTING RESULTS | :   0%|          | 0/72 [00:00<?, ?it/s]COLLECTING RESULTS | : 100%|██████████| 72/72 [00:00<00:00, 909608.10it/s]

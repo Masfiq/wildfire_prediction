@@ -1,0 +1,50 @@
+QUEUEING TASKS | :   0%|          | 0/72 [00:00<?, ?it/s]QUEUEING TASKS | : 100%|██████████| 72/72 [00:00<00:00, 16266.62it/s]
+PROCESSING TASKS | :   0%|          | 0/72 [00:00<?, ?it/s]PROCESSING TASKS | :   1%|▏         | 1/72 [00:01<02:08,  1.82s/it]PROCESSING TASKS | :   6%|▌         | 4/72 [00:01<00:25,  2.63it/s]PROCESSING TASKS | :   8%|▊         | 6/72 [00:02<00:18,  3.51it/s]PROCESSING TASKS | :  11%|█         | 8/72 [00:03<00:21,  3.02it/s]PROCESSING TASKS | :  15%|█▌        | 11/72 [00:03<00:13,  4.59it/s]PROCESSING TASKS | :  17%|█▋        | 12/72 [00:03<00:14,  4.00it/s]PROCESSING TASKS | :  18%|█▊        | 13/72 [00:03<00:13,  4.27it/s]PROCESSING TASKS | :  21%|██        | 15/72 [00:04<00:13,  4.31it/s]PROCESSING TASKS | :  22%|██▏       | 16/72 [00:04<00:12,  4.34it/s]PROCESSING TASKS | :  24%|██▎       | 17/72 [00:04<00:11,  4.78it/s]PROCESSING TASKS | :  25%|██▌       | 18/72 [00:04<00:12,  4.42it/s]PROCESSING TASKS | :  28%|██▊       | 20/72 [00:05<00:08,  6.43it/s]PROCESSING TASKS | :  29%|██▉       | 21/72 [00:05<00:07,  6.57it/s]PROCESSING TASKS | :  31%|███       | 22/72 [00:05<00:12,  4.15it/s]PROCESSING TASKS | :  35%|███▍      | 25/72 [00:06<00:07,  6.08it/s]PROCESSING TASKS | :  36%|███▌      | 26/72 [00:06<00:08,  5.56it/s]PROCESSING TASKS | :  39%|███▉      | 28/72 [00:06<00:09,  4.49it/s]PROCESSING TASKS | :  40%|████      | 29/72 [00:06<00:08,  5.05it/s]PROCESSING TASKS | :  43%|████▎     | 31/72 [00:07<00:06,  6.54it/s]PROCESSING TASKS | :  46%|████▌     | 33/72 [00:07<00:07,  5.31it/s]PROCESSING TASKS | :  49%|████▊     | 35/72 [00:07<00:06,  5.40it/s]PROCESSING TASKS | :  51%|█████▏    | 37/72 [00:08<00:05,  6.37it/s]PROCESSING TASKS | :  53%|█████▎    | 38/72 [00:08<00:06,  5.43it/s]PROCESSING TASKS | :  56%|█████▌    | 40/72 [00:08<00:05,  5.46it/s]PROCESSING TASKS | :  57%|█████▋    | 41/72 [00:09<00:05,  5.43it/s]PROCESSING TASKS | :  58%|█████▊    | 42/72 [00:09<00:05,  5.28it/s]PROCESSING TASKS | :  60%|█████▉    | 43/72 [00:09<00:05,  5.51it/s]PROCESSING TASKS | :  61%|██████    | 44/72 [00:09<00:06,  4.25it/s]PROCESSING TASKS | :  64%|██████▍   | 46/72 [00:10<00:05,  4.99it/s]PROCESSING TASKS | :  65%|██████▌   | 47/72 [00:10<00:04,  5.55it/s]PROCESSING TASKS | :  68%|██████▊   | 49/72 [00:10<00:03,  6.80it/s]PROCESSING TASKS | :  69%|██████▉   | 50/72 [00:10<00:03,  5.95it/s]PROCESSING TASKS | :  71%|███████   | 51/72 [00:10<00:04,  5.15it/s]PROCESSING TASKS | :  72%|███████▏  | 52/72 [00:11<00:04,  4.40it/s]PROCESSING TASKS | :  75%|███████▌  | 54/72 [00:11<00:03,  5.95it/s]PROCESSING TASKS | :  76%|███████▋  | 55/72 [00:11<00:03,  5.02it/s]PROCESSING TASKS | :  78%|███████▊  | 56/72 [00:12<00:04,  3.55it/s]PROCESSING TASKS | :  79%|███████▉  | 57/72 [00:12<00:04,  3.39it/s]PROCESSING TASKS | :  81%|████████  | 58/72 [00:12<00:03,  4.07it/s]PROCESSING TASKS | :  82%|████████▏ | 59/72 [00:12<00:03,  4.06it/s]PROCESSING TASKS | :  85%|████████▍ | 61/72 [00:13<00:03,  2.77it/s]PROCESSING TASKS | :  89%|████████▉ | 64/72 [00:14<00:01,  4.94it/s]PROCESSING TASKS | :  92%|█████████▏| 66/72 [00:14<00:00,  6.31it/s]PROCESSING TASKS | :  94%|█████████▍| 68/72 [00:15<00:00,  4.18it/s]PROCESSING TASKS | :  96%|█████████▌| 69/72 [00:15<00:00,  4.12it/s]PROCESSING TASKS | :  99%|█████████▊| 71/72 [00:15<00:00,  4.23it/s]Error while downloading the file MCD64A1.A2023244.h08v04.061.2023314022721.hdf
+Traceback (most recent call last):
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 678, in _download_file
+    r.raise_for_status()
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MCD64A1.061/MCD64A1.A2023244.h08v04.061.2023314022721/MCD64A1.A2023244.h08v04.061.2023314022721.hdf
+PROCESSING TASKS | : 100%|██████████| 72/72 [00:16<00:00,  3.11it/s]PROCESSING TASKS | : 100%|██████████| 72/72 [00:16<00:00,  4.39it/s]
+COLLECTING RESULTS | :   0%|          | 0/72 [00:00<?, ?it/s]COLLECTING RESULTS | :  69%|██████▉   | 50/72 [00:00<00:00, 309771.34it/s]
+Traceback (most recent call last):
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 678, in _download_file
+    r.raise_for_status()
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MCD64A1.061/MCD64A1.A2023244.h08v04.061.2023314022721/MCD64A1.A2023244.h08v04.061.2023314022721.hdf
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/data_collection/download_modis.py", line 101, in <module>
+    download_modis_burned_area()
+  File "/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/data_collection/download_modis.py", line 95, in download_modis_burned_area
+    earthaccess.download(results, local_path=str(year_dir), threads=THREADS)
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/api.py", line 245, in download
+    return earthaccess.__store__.get(
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 535, in get
+    return self._get(granules, Path(local_path), provider, pqdm_kwargs=pqdm_kwargs)
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/multimethod/__init__.py", line 350, in __call__
+    return func(*args, **kwargs)
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 651, in _get_granules
+    return self._download_onprem_granules(
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 729, in _download_onprem_granules
+    return pqdm(arguments, self._download_file, **pqdm_kwargs)
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/pqdm/threads.py", line 22, in pqdm
+    return _parallel_process(
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/pqdm/_base.py", line 79, in _parallel_process
+    raise e
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/pqdm/_base.py", line 76, in _parallel_process
+    results.append(future.result())
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/site-packages/earthaccess/store.py", line 685, in _download_file
+    raise Exception
+Exception
+srun: error: peregrine0: task 0: Exited with exit code 1
