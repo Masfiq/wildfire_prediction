@@ -1,0 +1,507 @@
+Converting 72 HDF files using 8 workers...
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.....................101010..10......Input file size is 2400, 2400
+010..10....2020.....20.20.........30...40...5020.30...40...50..30...40...50...30...40...5020...30...40...5010.....60...70..10....60...70........60..60....70...70.....60...70...30...40...50.20...30...40...50.20....60....70...30...40...50...60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v04.061.2023070215844_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v05.061.2023070235721_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h07v05.061.2023070211100_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v04.061.2023100081418_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h07v05.061.2023100073151_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v04.061.2023070235040_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h10v04.061.2023071012221_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v05.061.2023070215909_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h07v05.061.2023070211100_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h07v05.061.2023070211100_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h07v05.061.2023070211100.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v05.061.2023070235721_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v05.061.2023070235721_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v05.061.2023070235721.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h07v05.061.2023100073151_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h07v05.061.2023100073151_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h07v05.061.2023100073151.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v04.061.2023070215844_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v04.061.2023070215844_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v04.061.2023070215844.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v04.061.2023100081418_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v04.061.2023100081418_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v04.061.2023100081418.tif.
+....Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v04.061.2023070235040_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v04.061.2023070235040_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h09v04.061.2023070235040.tif.
+......Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v05.061.2023070215909_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v05.061.2023070215909_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h08v05.061.2023070215909.tif.
+....10101010.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h10v04.061.2023071012221_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h10v04.061.2023071012221_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023001.h10v04.061.2023071012221.tif.
+..10...20..10....10..20..10.30..20.30...30....40...40.....40.........50....502020.....20......50.3030........30...4040..........202040........30....60..30.60.40.........70....7040..60......70...80..80....90..90......50..50.80......90.....60.5060........70..6070..50.....8050.......60.80...70...6090......70.......80..70100 - done.
+.8090......80.....100 - done.
+90.90100 - done.
+.........90...100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0...........Input file size is 2400, 2400
+0....Input file size is 2400, 2400
+01010....Input file size is 2400, 2400
+0...10.10...10......20.....10..20....20...2020......30...40...5010..30...40...50.10...20.30...40...50.30...40...50..30...40...50....60...70...30...40...50...60....70..20....20.....6060.......7070.......60...70....30...40...50...60...70...30...40...50...60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h07v05.061.2023130060842_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h07v05.061.2023130060842_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h07v05.061.2023130060842_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h07v05.061.2023130060842.tif.
+.Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v04.061.2023100093519_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v05.061.2023130065324_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v05.061.2023100084127_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v04.061.2023130063701_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h10v04.061.2023100120520_sinu.tif [1/1] : 0..10Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v04.061.2023130075406_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v05.061.2023130065324_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v05.061.2023130065324_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v05.061.2023130065324.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v04.061.2023100093519_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v04.061.2023100093519_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v04.061.2023100093519.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v05.061.2023100084127_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v05.061.2023100084127_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h08v05.061.2023100084127.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h10v04.061.2023100120520_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h10v04.061.2023100120520_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h10v04.061.2023100120520.tif.
+....Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v05.061.2023100103322_sinu.tif [1/1] : 0..1010.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v04.061.2023130063701_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v04.061.2023130063701_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h08v04.061.2023130063701.tif.
+.10..10...20Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v04.061.2023130075406_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v04.061.2023130075406_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v04.061.2023130075406.tif.
+........30.20...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v05.061.2023100103322_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v05.061.2023100103322_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023032.h09v05.061.2023100103322.tif.
+.3010........4020....40...1030.....20.....10..30......50...20..204020.........30..30........3040.40......4050...40......50...60....60.7050......70.......60.80...2080...70...90......50......60..3050....90.50..60.......7080..........40.60...9060...70..........807070..80.......90..80..80...90100 - done.
+.........9090......50..100 - done.
+..100 - done.
+60...70..100 - done.
+.80...90100 - done.
+...100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.......Input file size is 2400, 2400
+0........1010..Input file size is 2400, 2400
+0.....1010....Input file size is 2400, 2400
+010....2020.....10......20.20.......30...40...50.30...40...50.20...30...40...50.30...40...50.1020...30...40...50.....60...70.....60...70..10...30...40...50...60......7060.....70.....60...70...20...20.....60...70...30...40...50.30...40...50...60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h07v05.061.2023154065130_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v04.061.2023154073155_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h10v04.061.2023130093831_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v05.061.2023130080909_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v04.061.2023154083042_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h10v04.061.2023154101653_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h07v05.061.2023154065130_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h07v05.061.2023154065130_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h07v05.061.2023154065130.tif.
+.Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v05.061.2023154073107_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v05.061.2023154090155_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v04.061.2023154073155_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v04.061.2023154073155_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v04.061.2023154073155.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v05.061.2023130080909_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v05.061.2023130080909_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h09v05.061.2023130080909.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h10v04.061.2023130093831_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h10v04.061.2023130093831_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023060.h10v04.061.2023130093831.tif.
+....10.10Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v04.061.2023154083042_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v04.061.2023154083042_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v04.061.2023154083042.tif.
+....10..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v05.061.2023154073107_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v05.061.2023154073107_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h08v05.061.2023154073107.tif.
+..10Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v05.061.2023154090155_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v05.061.2023154090155_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h09v05.061.2023154090155.tif.
+..20Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h10v04.061.2023154101653_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h10v04.061.2023154101653_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023091.h10v04.061.2023154101653.tif.
+......3010..10...1010.....4020....30....50...20.......20..40.30........40..20.30.........2040.....3050.......30.60........4040.....70...2020.......3030..80........90.40...6040.......50....70.60......7050.....80.60..50.....5080........90.60..7090.........60....70.80...80..50.70.50........60.....9060.80...90........70..70.....90....80..80.....90..90.....100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0..Input file size is 2400, 2400
+0.......10....10...10..Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.20Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0..2010.........20...30...40...50....30...40...50.......20.30...40...50..10.....60...70.....60...70..1010....30...40...50.10.....60...70...20...20.....60...70...20.30...40...50...20.30...40...50...30...40...50...60.30...40...50...70.....60...70.....60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v04.061.2023193052028_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v04.061.2023193033103_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v05.061.2023193030049_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h07v05.061.2023193011244_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v05.061.2023193054814_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h07v05.061.2023220155126_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v05.061.2023193030049_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v05.061.2023193030049_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v05.061.2023193030049.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v04.061.2023193052028_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v04.061.2023193052028_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v04.061.2023193052028.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v04.061.2023193033103_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v04.061.2023193033103_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h08v04.061.2023193033103.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h07v05.061.2023193011244_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h07v05.061.2023193011244_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h07v05.061.2023193011244.tif.
+..Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v04.061.2023220154928_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h10v04.061.2023193092449_sinu.tif [1/1] : 0..10.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v05.061.2023193054814_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v05.061.2023193054814_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h09v05.061.2023193054814.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h07v05.061.2023220155126_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h07v05.061.2023220155126_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h07v05.061.2023220155126.tif.
+..1010...1020......2030....30Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v04.061.2023220154928_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v04.061.2023220154928_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v04.061.2023220154928.tif.
+......1010Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h10v04.061.2023193092449_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h10v04.061.2023193092449_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023121.h10v04.061.2023193092449.tif.
+......1040....40....10....50..20..50......3020.20......3030............4040...40......2060......20....60..70......30...20.70.50......4030.....30.....4040.....80..80....90..90......50.....5060...60.....70..60..70.....50....70.8080.....50.6090.......50.....100 - done.
+6080.....70...60..90...70.......80...70.8090.....80.100 - done.
+.....90..90.......90....100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0....Input file size is 2400, 2400
+0.........Input file size is 2400, 2400
+0..Input file size is 2400, 2400
+0.10....10..1010....10......10.....20...20....20.20.2010........30...40...50.20.10...30...40...50..30...40...50.30...40...50.30...40...50.30...40...50....60...70..20......2060...70.......60...70.....60...70.......60...60...70..70....30...40...50.30...40...50...60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v04.061.2023220180731_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v05.061.2023220170003_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v04.061.2023252042357_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v04.061.2023252054359_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h07v05.061.2023252032624_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v05.061.2023252043437_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v05.061.2023220180640_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h10v04.061.2023220125125_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v05.061.2023220170003_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v05.061.2023220170003_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h08v05.061.2023220170003.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v04.061.2023220180731_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v04.061.2023220180731_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v04.061.2023220180731.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v04.061.2023252042357_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v04.061.2023252042357_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v04.061.2023252042357.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v05.061.2023252043437_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v05.061.2023252043437_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h08v05.061.2023252043437.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h07v05.061.2023252032624_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h07v05.061.2023252032624_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h07v05.061.2023252032624.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v04.061.2023252054359_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v04.061.2023252054359_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v04.061.2023252054359.tif.
+...10.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v05.061.2023220180640_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v05.061.2023220180640_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h09v05.061.2023220180640.tif.
+.10....20.....1010.1030.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h10v04.061.2023220125125_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h10v04.061.2023220125125_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023152.h10v04.061.2023220125125.tif.
+.....20..10.10...1030..20......4030.....40........50..40.20.50.........30....20...20.4050............2030.....60.2030.....40......30.70.....40..60....40...30...70......40.60....80..70....80..90....90.....50....80.60..50..90..........506050...70...60....60......70.5070....80.....7080...8060....80.....90.100 - done.
+100 - done.
+.70...90....90..........90.80100 - done.
+......90...100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.........Input file size is 2400, 2400
+0Input file size is 2400, 2400
+010..Input file size is 2400, 2400
+010.....Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.10.....20...10.........20.10.....20....30...40...50.30...40...50..30...40...5020..1010.......60...70..10...20...30...40...50...60...70.....60...70...30...40...50..2020.....20.....60...70...30...40...50....30...40...5060...70...30...40...50...60...70.....60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h07v05.061.2023283230137_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v04.061.2023283231614_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v05.061.2023252055923_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v05.061.2023283232800_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h10v04.061.2023252071408_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v05.061.2023284000500_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h10v04.061.2023284001959_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h07v05.061.2023283230137_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h07v05.061.2023283230137_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h07v05.061.2023283230137.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v05.061.2023252055923_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v05.061.2023252055923_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h09v05.061.2023252055923.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v04.061.2023283231614_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v04.061.2023283231614_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v04.061.2023283231614.tif.
+.Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v04.061.2023283233905_sinu.tif [1/1] : 0.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v05.061.2023283232800_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v05.061.2023283232800_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h08v05.061.2023283232800.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v05.061.2023284000500_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v05.061.2023284000500_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v05.061.2023284000500.tif.
+....Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h10v04.061.2023252071408_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h10v04.061.2023252071408_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023182.h10v04.061.2023252071408.tif.
+..10..10..101010.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h10v04.061.2023284001959_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h10v04.061.2023284001959_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h10v04.061.2023284001959.tif.
+....20...10...30Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v04.061.2023283233905_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v04.061.2023283233905_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023213.h09v04.061.2023283233905.tif.
+.10.....40...10...50...20.....20....30..20....20....30.20..........2030.30.40..............403020....40.3040..........60..4040.........3070......40..50..80...90....50....50...60.60..50...50...6050........70.....6060.70....60..70.......5070...70..80....100 - done.
+80...70..60.80.8080.......90.......80..90.70..90........90....90.......80...90......90...100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0......Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0....Input file size is 2400, 2400
+0..10.....10........10.....10..20...10..10...20...30...40...50.1020.10......20...30...40...50.20...30...40...5020.....60...70....20..30...40...50..20...30...40...50.30...40...50...60...70.....60...70...30...40...50.30...40...50.....60.60.....70..70......60...70.....60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v04.061.2023314022721_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h07v05.061.2023314051751_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v05.061.2023314023809_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v05.061.2023314020157_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h10v04.061.2023314012837_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v04.061.2023314060027_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v04.061.2023340014009_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h07v05.061.2023340014129_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h07v05.061.2023314051751_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h07v05.061.2023314051751_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h07v05.061.2023314051751.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v05.061.2023314023809_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v05.061.2023314023809_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v05.061.2023314023809.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v04.061.2023314022721_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v04.061.2023314022721_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h08v04.061.2023314022721.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v05.061.2023314020157_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v05.061.2023314020157_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v05.061.2023314020157.tif.
+....Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v04.061.2023314060027_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v04.061.2023314060027_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h09v04.061.2023314060027.tif.
+.10...10Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h07v05.061.2023340014129_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h07v05.061.2023340014129_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h07v05.061.2023340014129.tif.
+.10.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h10v04.061.2023314012837_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h10v04.061.2023314012837_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023244.h10v04.061.2023314012837.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v04.061.2023340014009_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v04.061.2023340014009_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v04.061.2023340014009.tif.
+.....20....10...3010..1010...20......403010....20.....30..50....40.20.......20......3040..........40.3050.20..........20..40.......50302060........40.....7030....30....40..40.....60.80......9070.......60..50....70...60.50.......506070..80..........906080.....70..50.50........70..60...100 - done.
+....8060.90......8090.....70..80..70....80.....90..80..90...100 - done.
+.......9090......100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0......Input file size is 2400, 2400
+0.........Input file size is 2400, 2400
+010..10.....10Input file size is 2400, 2400
+0..10..10......20...2010......20...30...40...50...20..10..20.30...40...50....30...40...50.20....60...70...30...40...50.10.30...40...50.....60...70....30...40...5020.....60...70.....60...70....20..60...70....30...40...50....60...70...30...40...50...60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h07v05.061.2024006224149_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v04.061.2023340035821_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v05.061.2023340015434_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h10v04.061.2023340020028_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v05.061.2023340040214_sinu.tif [1/1] : 0Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v04.061.2024006221723_sinu.tif [1/1] : 0Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v04.061.2024006202041_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v05.061.2024006213955_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h07v05.061.2024006224149_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h07v05.061.2024006224149_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h07v05.061.2024006224149.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v05.061.2023340015434_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v05.061.2023340015434_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h08v05.061.2023340015434.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v04.061.2023340035821_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v04.061.2023340035821_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v04.061.2023340035821.tif.
+...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h10v04.061.2023340020028_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h10v04.061.2023340020028_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h10v04.061.2023340020028.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v05.061.2023340040214_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v05.061.2023340040214_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023274.h09v05.061.2023340040214.tif.
+......Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v04.061.2024006221723_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v04.061.2024006221723_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v04.061.2024006221723.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v04.061.2024006202041_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v04.061.2024006202041_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v04.061.2024006202041.tif.
+.1010Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v05.061.2024006213955_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v05.061.2024006213955_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h08v05.061.2024006213955.tif.
+..10...10.....2010....30.1010..10..20.....20...30..40.30.............20..20.40.20....50.....40...30.30.........30..40.40....20..50...40.......5030....20....6040.......7030.......4060.......50.60..5070............50806070..60.......90.....60....80..7070.....90......50....7080.8080.......9060.....80.........50909070..............8060..90.......70.90..100 - done.
+.100 - done.
+..80...100 - done.
+.90...100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0Input file size is 2400, 2400
+0.........Input file size is 2400, 2400
+0.........Input file size is 2400, 2400
+010..10.....10..10..10...2010...20.......10...30...40...50.20.30...40...50....2020.....2010.....30...40...50.20.30...40...50...60.....30...40...5070......60...70...30...40...50.30...40...50.20.....60...70.....60....70....60...70...30...40...50...60...70.....60...70.....60...70...80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+.80...90...100 - done.
+Creating output file that is 3283P x 862L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v04.061.2024039224349_sinu.tif [1/1] : 0Creating output file that is 3198P x 1137L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h07v05.061.2024039202931_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v05.061.2024040010002_sinu.tif [1/1] : 0Creating output file that is 3177P x 1194L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v05.061.2024039213400_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h10v04.061.2024006205758_sinu.tif [1/1] : 0Creating output file that is 3249P x 982L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h10v04.061.2024039201744_sinu.tif [1/1] : 0Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h07v05.061.2024039202931_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h07v05.061.2024039202931_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h07v05.061.2024039202931.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v04.061.2024039224349_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v04.061.2024039224349_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v04.061.2024039224349.tif.
+.Creating output file that is 3268P x 918L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v04.061.2024039222835_sinu.tif [1/1] : 0Creating output file that is 3153P x 1256L.
+Processing /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v05.061.2024006211708_sinu.tif [1/1] : 0....10Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v05.061.2024039213400_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v05.061.2024039213400_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h08v05.061.2024039213400.tif.
+.Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v05.061.2024040010002_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v05.061.2024040010002_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v05.061.2024040010002.tif.
+.10...20Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v05.061.2024006211708_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v05.061.2024006211708_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h09v05.061.2024006211708.tif.
+..Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h10v04.061.2024006205758_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h10v04.061.2024006205758_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023305.h10v04.061.2024006205758.tif.
+....30Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h10v04.061.2024039201744_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h10v04.061.2024039201744_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h10v04.061.2024039201744.tif.
+..10...Using internal nodata values (e.g. -1) for image /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v04.061.2024039222835_sinu.tif.
+Copying nodata values from source /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v04.061.2024039222835_sinu.tif to destination /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff/MCD64A1.A2023335.h09v04.061.2024039222835.tif.
+....10.1010......40.10...10..50...2020......30.30......40..20...............2040.3020..60.....20...40.......3070...........3040...30.20.....5040...40.80........90.30......50.40....60.50.......6060....70..70...70......80.50.5080....50.....60.6080......60...90......90.......90...70.50.70........100 - done.
+...607080.80....80..70...90.......8090.....90........90...100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+100 - done.
+  Saved: MCD64A1.A2023001.h07v05.061.2023070211100.tif
+  Saved: MCD64A1.A2023001.h08v04.061.2023070215844.tif
+  Saved: MCD64A1.A2023001.h08v05.061.2023070215909.tif
+  Saved: MCD64A1.A2023001.h09v04.061.2023070235040.tif
+  Saved: MCD64A1.A2023001.h09v05.061.2023070235721.tif
+  Saved: MCD64A1.A2023001.h10v04.061.2023071012221.tif
+  Saved: MCD64A1.A2023032.h07v05.061.2023100073151.tif
+  Saved: MCD64A1.A2023032.h08v04.061.2023100081418.tif
+  Saved: MCD64A1.A2023032.h08v05.061.2023100084127.tif
+  Saved: MCD64A1.A2023032.h09v04.061.2023100093519.tif
+  Saved: MCD64A1.A2023032.h09v05.061.2023100103322.tif
+  Saved: MCD64A1.A2023032.h10v04.061.2023100120520.tif
+  Saved: MCD64A1.A2023060.h07v05.061.2023130060842.tif
+  Saved: MCD64A1.A2023060.h08v04.061.2023130063701.tif
+  Saved: MCD64A1.A2023060.h08v05.061.2023130065324.tif
+  Saved: MCD64A1.A2023060.h09v04.061.2023130075406.tif
+  Saved: MCD64A1.A2023060.h09v05.061.2023130080909.tif
+  Saved: MCD64A1.A2023060.h10v04.061.2023130093831.tif
+  Saved: MCD64A1.A2023091.h07v05.061.2023154065130.tif
+  Saved: MCD64A1.A2023091.h08v04.061.2023154073155.tif
+  Saved: MCD64A1.A2023091.h08v05.061.2023154073107.tif
+  Saved: MCD64A1.A2023091.h09v04.061.2023154083042.tif
+  Saved: MCD64A1.A2023091.h09v05.061.2023154090155.tif
+  Saved: MCD64A1.A2023091.h10v04.061.2023154101653.tif
+  Saved: MCD64A1.A2023121.h07v05.061.2023193011244.tif
+  Saved: MCD64A1.A2023121.h08v04.061.2023193033103.tif
+  Saved: MCD64A1.A2023121.h08v05.061.2023193030049.tif
+  Saved: MCD64A1.A2023121.h09v04.061.2023193052028.tif
+  Saved: MCD64A1.A2023121.h09v05.061.2023193054814.tif
+  Saved: MCD64A1.A2023121.h10v04.061.2023193092449.tif
+  Saved: MCD64A1.A2023152.h07v05.061.2023220155126.tif
+  Saved: MCD64A1.A2023152.h08v04.061.2023220154928.tif
+  Saved: MCD64A1.A2023152.h08v05.061.2023220170003.tif
+  Saved: MCD64A1.A2023152.h09v04.061.2023220180731.tif
+  Saved: MCD64A1.A2023152.h09v05.061.2023220180640.tif
+  Saved: MCD64A1.A2023152.h10v04.061.2023220125125.tif
+  Saved: MCD64A1.A2023182.h07v05.061.2023252032624.tif
+  Saved: MCD64A1.A2023182.h08v04.061.2023252042357.tif
+  Saved: MCD64A1.A2023182.h08v05.061.2023252043437.tif
+  Saved: MCD64A1.A2023182.h09v04.061.2023252054359.tif
+  Saved: MCD64A1.A2023182.h09v05.061.2023252055923.tif
+  Saved: MCD64A1.A2023182.h10v04.061.2023252071408.tif
+  Saved: MCD64A1.A2023213.h07v05.061.2023283230137.tif
+  Saved: MCD64A1.A2023213.h08v04.061.2023283231614.tif
+  Saved: MCD64A1.A2023213.h08v05.061.2023283232800.tif
+  Saved: MCD64A1.A2023213.h09v04.061.2023283233905.tif
+  Saved: MCD64A1.A2023213.h09v05.061.2023284000500.tif
+  Saved: MCD64A1.A2023213.h10v04.061.2023284001959.tif
+  Saved: MCD64A1.A2023244.h07v05.061.2023314051751.tif
+  Saved: MCD64A1.A2023244.h08v04.061.2023314022721.tif
+  Saved: MCD64A1.A2023244.h08v05.061.2023314023809.tif
+  Saved: MCD64A1.A2023244.h09v04.061.2023314060027.tif
+  Saved: MCD64A1.A2023244.h09v05.061.2023314020157.tif
+  Saved: MCD64A1.A2023244.h10v04.061.2023314012837.tif
+  Saved: MCD64A1.A2023274.h07v05.061.2023340014129.tif
+  Saved: MCD64A1.A2023274.h08v04.061.2023340014009.tif
+  Saved: MCD64A1.A2023274.h08v05.061.2023340015434.tif
+  Saved: MCD64A1.A2023274.h09v04.061.2023340035821.tif
+  Saved: MCD64A1.A2023274.h09v05.061.2023340040214.tif
+  Saved: MCD64A1.A2023274.h10v04.061.2023340020028.tif
+  Saved: MCD64A1.A2023305.h07v05.061.2024006224149.tif
+  Saved: MCD64A1.A2023305.h08v04.061.2024006221723.tif
+  Saved: MCD64A1.A2023305.h08v05.061.2024006213955.tif
+  Saved: MCD64A1.A2023305.h09v04.061.2024006202041.tif
+  Saved: MCD64A1.A2023305.h09v05.061.2024006211708.tif
+  Saved: MCD64A1.A2023305.h10v04.061.2024006205758.tif
+  Saved: MCD64A1.A2023335.h07v05.061.2024039202931.tif
+  Saved: MCD64A1.A2023335.h08v04.061.2024039224349.tif
+  Saved: MCD64A1.A2023335.h08v05.061.2024039213400.tif
+  Saved: MCD64A1.A2023335.h09v04.061.2024039222835.tif
+  Saved: MCD64A1.A2023335.h09v05.061.2024040010002.tif
+  Saved: MCD64A1.A2023335.h10v04.061.2024039201744.tif
+
+Done. GeoTIFFs saved to: /s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff

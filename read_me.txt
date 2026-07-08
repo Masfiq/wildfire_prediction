@@ -1,6 +1,6 @@
 Wildfire Risk Prediction — Research Plan
 Core Idea
-Predict where fire will occur in the next 30 days in Western USA using multi-source satellite + environmental data. The novelty for IGARSS/IEEE TGRS: using HLS at 30m resolution (much finer than most prior work at 500m–1km) combined with weather and topography, with MODIS burned area as ground truth labels.
+Predict where fire will occur in the next 30 days in Western USA using multi-source satellite + environmental data. The novelty for IGARSS/IEEE TGRS: using HLS at 30m resolution (much finer than most prior work at 500m–1km) combined with weather and topography, with MODIS burned area as ground truth labels. We will also try to do the burned area mapping with the timeseries where the same ground truth data can be used 
 
 
 
@@ -12,7 +12,6 @@ Weather	GRIDMET	4km, daily	Temp, humidity, wind, drought index (PDSI)
 Topography	NASADEM / SRTM	30m	Elevation, slope, aspect
 Fuel / land cover	LANDFIRE or NLCD	30m	Fuel type, land use
 Study area: California + Oregon + Washington, 2018–2023 (covers major fire years like 2020–2021).
-
 
 
 

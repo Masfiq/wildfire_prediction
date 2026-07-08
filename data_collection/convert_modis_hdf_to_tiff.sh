@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name="modis_hdf_to_tiff"
 #SBATCH --partition=peregrine-cpu
-#SBATCH --qos=cpu_long
+#SBATCH --qos=cpu_short
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8

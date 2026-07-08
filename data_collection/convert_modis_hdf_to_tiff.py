@@ -15,14 +15,14 @@ INPUT_DIR  = Path("/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset
 OUTPUT_DIR = Path("/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/dataset/modis/geotiff")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-LAYER = "Burn_Date"   # the layer inside MCD64A1 we care about
+LAYER = "Burn Date"   # the layer inside MCD64A1 we care about (note: name has a space, needs quoting)
 
 MAX_WORKERS = int(os.environ.get("SLURM_CPUS_PER_TASK", "8"))
 
 
 def convert(hdf_path: Path):
-    # GDAL sees HDF4 layers as: HDF4_EOS:EOS_GRID:"file.hdf":MOD_Grid_Monthly_500m_DB_BA:Burn_Date
-    subdataset = f'HDF4_EOS:EOS_GRID:"{hdf_path}":MOD_Grid_Monthly_500m_DB_BA:{LAYER}'
+    # GDAL sees HDF4 layers as: HDF4_EOS:EOS_GRID:"file.hdf":MOD_Grid_Monthly_500m_DB_BA:"Burn Date"
+    subdataset = f'HDF4_EOS:EOS_GRID:"{hdf_path}":MOD_Grid_Monthly_500m_DB_BA:"{LAYER}"'
 
     # Step 1: extract layer to a temp sinusoidal GeoTIFF
     temp_tif  = OUTPUT_DIR / (hdf_path.stem + "_sinu.tif")
