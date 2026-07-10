@@ -245,8 +245,10 @@ def process_granule(job):
 
     written = 0
 
-    # Helper: open+clip+scale+mask one band
-    def load_band(bname):
+    # Helper: open+clip+scale+mask one band. Stays lazy/dask-chunked by default
+    # (like before) so writes can stream; pass materialize=True only for bands
+    # that need to be reused later (NDVI/EVI), to avoid re-fetching them.
+    def load_band(bname, materialize=False):
         if bname not in suffix_to_url:
             return None
         da = _open_band_retry(suffix_to_url[bname], chunk_size)
@@ -255,16 +257,23 @@ def process_granule(job):
         da_small = da.rio.clip_box(minx, miny, maxx, maxy)
         da_crop = da_small.rio.clip(fsUTM.geometry.values, fsUTM.crs, all_touched=True)
         da_scaled = scaling(da_crop)
-        return da_scaled.where(~mask_layer)
+        result = da_scaled.where(~mask_layer)
+        return result.load() if materialize else result
 
-    # Write reflectance bands
+    # Write reflectance bands, caching NIR/RED/BLUE since NDVI/EVI need them too
+    # (reflectance_bands already includes NIR/RED/BLUE for both sensors, so without
+    # this cache they'd otherwise be fetched a second time below)
+    band_cache = {}
     for b in reflectance_bands:
         out_path = os.path.join(out_dir, f"{base}_{b}_cropped.tif")
         if skip_existing and os.path.exists(out_path):
             continue
-        da_masked = load_band(b)
+        needs_cache = b in (nir_name, red_name, blue_name)
+        da_masked = load_band(b, materialize=needs_cache)
         if da_masked is None:
             continue
+        if needs_cache:
+            band_cache[b] = da_masked
 
         if write_driver_band == "GTiff":
             da_masked.rio.to_raster(
@@ -280,10 +289,12 @@ def process_granule(job):
             da_masked.rio.to_raster(out_path, driver=write_driver_band)
         written += 1
 
-    # NDVI + EVI need NIR/RED/BLUE
-    nir = load_band(nir_name)
-    red = load_band(red_name)
-    blue = load_band(blue_name)
+    # NDVI + EVI need NIR/RED/BLUE — reuse from the cache above when available,
+    # only falling back to a fresh fetch on skip_existing re-runs where the
+    # reflectance band's output already existed and so was never loaded.
+    nir = band_cache[nir_name] if nir_name in band_cache else load_band(nir_name)
+    red = band_cache[red_name] if red_name in band_cache else load_band(red_name)
+    blue = band_cache[blue_name] if blue_name in band_cache else load_band(blue_name)
 
     # NDVI
     ndvi_path = os.path.join(out_dir, f"{base}_NDVI_cropped.tif")
@@ -335,9 +346,8 @@ def main():
     workers = args.workers if args.workers > 0 else slurm_cpus
 
     # IMPORTANT: Too many workers can trigger 503 throttling from LP DAAC.
-    # Keep a safety cap unless you KNOW it’s stable.
-    workers = max(1, min(workers, 15))
-    workers = max(1, min(workers, 8, slurm_cpus))
+    # Keep a safety cap unless you KNOW it's stable.
+    workers = max(1, min(workers, 10, slurm_cpus))
 
     # Make sure prints appear in .out while job is running
     print(f"Using workers={workers} (SLURM_CPUS_PER_TASK={slurm_cpus})", flush=True)

@@ -1,0 +1,85 @@
+/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/data_collection/hls_download/hls_download_version_2.py:48: DeprecationWarning: GeoPandas is set to use PyGEOS over Shapely. PyGEOS support is deprecatedand will be removed in GeoPandas 1.0, released in the Q1 of 2024. Please migrate to Shapely 2.0 (https://geopandas.org/en/stable/docs/user_guide/pygeos_to_shapely.html).
+  import geopandas as gp
+ERROR 1: Request for 309882-316292 failed with response_code=503
+ERROR 1: Request for 925905-929970 failed with response_code=503
+ERROR 1: Request for 15117831-15214575 failed with response_code=503
+ERROR 1: Request for 1488443-1489580 failed with response_code=503
+ERROR 1: Request for 21390157-21390768 failed with response_code=503
+ERROR 1: Request for 1901832-1907277 failed with response_code=503
+ERROR 1: Request for 886339-887476 failed with response_code=503
+ERROR 1: Request for 93406-94003 failed with response_code=503
+ERROR 1: Request for 4567056-4759764 failed with response_code=503
+ERROR 1: Request for 288012-288609 failed with response_code=503
+ERROR 1: Request for 1181739-1187266 failed with response_code=503
+ERROR 1: Request for 11666336-11757988 failed with response_code=503
+ERROR 1: Request for 9695793-9696071 failed with response_code=503
+ERROR 1: Request for 2808748-2809316 failed with response_code=503
+Warning 1: HTTP error code: 503 - https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSL30.020/HLS.L30.T11TLH.2022292T183845.v2.0/HLS.L30.T11TLH.2022292T183845.v2.0.B05.tif. Retrying again in 0.5 secs
+ERROR 1: Request for 16530797-16619149 failed with response_code=503
+ERROR 1: Request for 14861625-14862193 failed with response_code=503
+ERROR 1: Request for 5366669-5460545 failed with response_code=503
+ERROR 1: Request for 18696562-18892458 failed with response_code=503
+ERROR 1: Request for 16572030-16656847 failed with response_code=503
+ERROR 1: Request for 100535-131770 failed with response_code=503
+ERROR 1: Request for 7562754-7563891 failed with response_code=503
+ERROR 1: Request for 3335384-3335995 failed with response_code=503
+ERROR 1: Request for 3220478-3221046 failed with response_code=503
+ERROR 1: Request for 4284119-4284687 failed with response_code=503
+ERROR 1: Request for 25453588-25548842 failed with response_code=503
+ERROR 1: Request for 983116-984394 failed with response_code=503
+ERROR 1: Request for 118987-119285 failed with response_code=503
+ERROR 1: Request for 9450643-9534454 failed with response_code=503
+ERROR 1: Request for 152530-152926 failed with response_code=503
+ERROR 1: Request for 12454624-12537915 failed with response_code=503
+ERROR 1: Request for 14531989-14561703 failed with response_code=503
+ERROR 1: Request for 12672529-12854867 failed with response_code=503
+ERROR 1: Request for 9224766-9226472 failed with response_code=503
+ERROR 1: Request for 7869596-7968878 failed with response_code=503
+ERROR 1: Request for 15703190-15903671 failed with response_code=503
+ERROR 1: Request for 12781683-12880714 failed with response_code=503
+Warning 1: HTTP error code: 503 - https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T10SDJ.2022292T190419.v2.0/HLS.S30.T10SDJ.2022292T190419.v2.0.B02.tif. Retrying again in 0.5 secs
+ERROR 1: Request for 216238-216901 failed with response_code=503
+ERROR 1: Request for 397281-398498 failed with response_code=503
+ERROR 1: Request for 23891190-23920701 failed with response_code=503
+ERROR 1: Request for 21481171-21580207 failed with response_code=503
+ERROR 1: Request for 735002-735290 failed with response_code=503
+ERROR 1: Request for 333162-334567 failed with response_code=503
+ERROR 1: Request for 14334566-14365054 failed with response_code=503
+ERROR 1: Request for 7241872-7345162 failed with response_code=503
+ERROR 1: Request for 17536778-17567418 failed with response_code=503
+ERROR 1: Request for 282989-287118 failed with response_code=503
+ERROR 1: Request for 8504024-8534916 failed with response_code=503
+ERROR 1: Request for 604742-609493 failed with response_code=503
+ERROR 1: Request for 12710171-12801823 failed with response_code=503
+ERROR 1: Request for 21395806-21486303 failed with response_code=503
+ERROR 1: Request for 21450161-21550049 failed with response_code=503
+ERROR 1: Request for 512054-512352 failed with response_code=503
+ERROR 1: Request for 24179457-24377941 failed with response_code=503
+ERROR 1: Request for 92862-93160 failed with response_code=503
+ERROR 1: Request for 60332-60929 failed with response_code=503
+ERROR 1: Request for 706533-710346 failed with response_code=503
+ERROR 1: Request for 10238541-10332805 failed with response_code=503
+ERROR 1: Request for 22804238-23005098 failed with response_code=503
+ERROR 1: Request for 355267-355835 failed with response_code=503
+ERROR 1: Request for 18659331-18752564 failed with response_code=503
+ERROR 1: Request for 489850-492908 failed with response_code=503
+ERROR 1: Request for 1791861-1890116 failed with response_code=503
+ERROR 1: Request for 171132-171700 failed with response_code=503
+ERROR 1: Request for 15815092-15815660 failed with response_code=503
+ERROR 1: Request for 12038539-12129134 failed with response_code=503
+ERROR 1: Request for 4424076-4461354 failed with response_code=503
+ERROR 1: Request for 7699042-7728638 failed with response_code=503
+ERROR 1: Request for 8126192-8126760 failed with response_code=503
+ERROR 1: Request for 9578219-9672630 failed with response_code=503
+Traceback (most recent call last):
+  File "/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/data_collection/hls_download/hls_download_version_2.py", line 433, in <module>
+    main()
+  File "/s/chopin/e/proj/hyperspec/masfiq/wildfire_prediction/data_collection/hls_download/hls_download_version_2.py", line 427, in main
+    j, msg = f.result()
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/s/chopin/e/proj/hyperspec/masfiq/projenv/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+[2026-07-08T13:02:45.210] error: Detected 1 oom_kill event in StepId=6458.0. Some of the step tasks have been OOM Killed.
+srun: error: peregrine0: task 0: Out Of Memory
